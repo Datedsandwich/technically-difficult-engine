@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Sound/Bounce.mp3</SourceFile>
+  <SourceTime>2016-04-27T11:17:46+01:00</SourceTime>
+  <DestFile>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/bin/Windows/Sound/Bounce.xnb</DestFile>
+  <DestTime>2016-05-04T14:17:12.1437239+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

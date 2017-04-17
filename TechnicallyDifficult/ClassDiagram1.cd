@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TechnicallyDifficult.Core.EntityManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAwAAAAABAAAAAAAAAAAAAIEAAAAAAAQ=</HashCode>
+      <FileName>Core\EntityManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TechnicallyDifficult.Core.InputManager" Collapsed="true">
+    <Position X="18.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAQAggAAAgCAAAAAAAQAAIEBBAAsAYAAAABBQCAQ=</HashCode>
+      <FileName>Core\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Core.Physics" Collapsed="true">
+    <Position X="20.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Physics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Core.SceneManager" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAgQAAwAAAAAIAIAAABBwAACASQAAAAAAAgQ=</HashCode>
+      <FileName>Core\SceneManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.Background" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAAAEAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Entities\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.Entity" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAECBAAAAIAwAAAQCABAAAAAAEAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>Entities\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.Floor" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAAAEAAAAAAAAAAAEAAAAAQ=</HashCode>
+      <FileName>Entities\Floor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.Player" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAUAAgABEgCAIwAAAAgIAACAAkwEAAAAIIIEIAAgAAQ=</HashCode>
+      <FileName>Entities\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.UpperFloor" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAAAEAAAAAAAAAAAEAAAAAQ=</HashCode>
+      <FileName>Entities\UpperFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.BoxCollider" Collapsed="true">
+    <Position X="7.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAIAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\EntityComponents\BoxCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.CircleCollider" Collapsed="true">
+    <Position X="12.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACIAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\EntityComponents\CircleCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.Collider" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAIAAAAQAQIAAIAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\EntityComponents\Collider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.EntityComponent" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEBAAAAAAAwAAAAAAEAAAAAAAAAAAAAAAEAAAAAQ=</HashCode>
+      <FileName>Entities\EntityComponents\EntityComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.PhysicsBody" Collapsed="true">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAABABAAACAAAAIIAAAAAAggQAAAQAAAAQAAE=</HashCode>
+      <FileName>Entities\EntityComponents\PhysicsBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.PlaneCollider" Collapsed="true">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\EntityComponents\PlaneCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.StateMachine" Collapsed="true">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAIAAAAAAAAAg=</HashCode>
+      <FileName>Entities\EntityComponents\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.Text" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAIAAAAAAAAAAAAAIAAAAAAACAAQ=</HashCode>
+      <FileName>Entities\EntityComponents\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Entities.EntityComponents.Transform" Collapsed="true">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAgAAIAAAAAABAgAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entities\EntityComponents\Transform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.GameData.Score" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAAAAAAAAAE=</HashCode>
+      <FileName>GameData\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.GameData.ScoreDisplay" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>GameData\ScoreDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.GameData.ScoreManager" Collapsed="true">
+    <Position X="20.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQAAAAQAAAAAAABAAAAAQEAAAAAAAAE=</HashCode>
+      <FileName>GameData\ScoreManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.GameManager" Collapsed="true">
+    <Position X="20.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAA4AAAAAAAAAAAABAAAgAQAAEAAIAQAQ=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Program" Collapsed="true">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Graphics.Animation" Collapsed="true">
+    <Position X="17" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIEEBAgQAAAgAAAAgAIAAAAEAAQAAgQAACIAAAAAQ=</HashCode>
+      <FileName>Graphics\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Graphics.Image" Collapsed="true">
+    <Position X="17" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAAAAAAIAACAAAAAkAAAAAQAAAAAAQ=</HashCode>
+      <FileName>Graphics\Image.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Scenes.Level">
+    <Position X="7" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Scenes\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechnicallyDifficult.Scenes.Scene">
+    <Position X="8.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAgwAAAAAAAAAAAAAAAAAAIAEAAAAAAAQ=</HashCode>
+      <FileName>Scenes\Scene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TechnicallyDifficult.Scenes.Scoreboard">
+    <Position X="9.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAEIAAAAAAAAAAAAIAAAAAAAAIA=</HashCode>
+      <FileName>Scenes\Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TechnicallyDifficult.GameData.ScoreData" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAAAABAAAAAAAAAAAAAAAEAAAAAAAAAAAEAAQA=</HashCode>
+      <FileName>GameData\ScoreData.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="TechnicallyDifficult.Interfaces.ICollisionListener" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICollisionListener.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TechnicallyDifficult.Interfaces.IEntity" Collapsed="true">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAIAAAAAAAABAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TechnicallyDifficult.Interfaces.IEntityComponent" Collapsed="true">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEntityComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TechnicallyDifficult.Interfaces.IGameObject" Collapsed="true">
+    <Position X="17" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Interfaces\IGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TechnicallyDifficult.Entities.EntityComponents.ForceMode" Collapsed="true">
+    <Position X="17" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entities\EntityComponents\PhysicsBody.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

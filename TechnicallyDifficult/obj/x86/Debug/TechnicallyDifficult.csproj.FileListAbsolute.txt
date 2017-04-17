@@ -1,0 +1,206 @@
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.exe
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.pdb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.exe
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.pdb
+D:\COMP3351\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.exe
+D:\COMP3351\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.pdb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.exe
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.pdb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\COMP3351\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.csprojResolveAssemblyReference.cache
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Idle.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jump.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jumping.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Pour.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunL.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunR.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Background.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGame.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGameHighlighted.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuit.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuitHighlighted.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\playerRun.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Sidebar.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash1.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash2.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Tower.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Wall.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.wma
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.xnb
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.wma
+D:\COMP3351\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.exe
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.pdb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.wma
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.wma
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Idle.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jump.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jumping.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Pour.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunL.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunR.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Background.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGame.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGameHighlighted.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuit.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuitHighlighted.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\playerRun.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Sidebar.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash1.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash2.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Tower.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Wall.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.exe
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.pdb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Idle.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jump.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jumping.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Pour.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunL.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunR.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Background.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGame.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGameHighlighted.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuit.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuitHighlighted.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\playerRun.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Sidebar.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash1.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash2.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Tower.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Wall.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.wma
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.wma
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Idle_New.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jump_New.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\WalkR_New.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.exe
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.pdb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.csprojResolveAssemblyReference.cache
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Font.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Idle.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Idle_New.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jump.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jumping.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jump_New.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Pour.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunL.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\RunR.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\WalkR_New.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Background.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGame.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonNewGameHighlighted.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuit.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\buttonQuitHighlighted.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\playerRun.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Sidebar.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash1.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Splash2.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Tower.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Wall.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.wma
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\Bounce.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.wma
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\Content\Sound\BouncyBounce.xnb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.exe
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\TechnicallyDifficult.pdb
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\CONO1_12\Desktop\TechnicallyDifficult_27042016\TechnicallyDifficult\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Font.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Idle_New.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\Jump_New.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Animations\Charles\WalkR_New.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-100.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-20.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-40.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-60.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-80.xnb
+C:\Users\Luke\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\obj\x86\Debug\TechnicallyDifficult.csprojResolveAssemblyReference.cache
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Font.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-100.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-20.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-40.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-60.xnb
+C:\Users\robl1_13\Dropbox\University\Year 3\COMP3351 Advanced Game Design and Engineering\TechnicallyDifficultEngine\TechnicallyDifficult\TechnicallyDifficult\bin\Windows\Debug\Content\Graphics\Patient-80.xnb

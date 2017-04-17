@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Font.spritefont</SourceFile>
+  <SourceTime>2016-05-01T11:04:00.0187258+01:00</SourceTime>
+  <DestFile>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/bin/Windows/Font.xnb</DestFile>
+  <DestTime>2016-05-04T14:17:13.7856604+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

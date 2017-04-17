@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Sound/Bounce.mp3</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Sound/BouncyBounce.mp3</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/Idle.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/Jump.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/Jumping.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/Pour.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/RunL.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/RunR.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Background.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/buttonNewGame.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/buttonNewGameHighlighted.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/buttonQuit.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/buttonQuitHighlighted.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/playerRun.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Sidebar.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Splash1.jpg</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Splash2.jpg</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Tower.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Wall.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/Idle_New.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/Jump_New.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Animations/Charles/WalkR_New.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Font.spritefont</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Patient-20.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Patient-40.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Patient-60.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Patient-80.png</File>
+    <File>C:/Users/Luke/Dropbox/University/Year 3/COMP3351 Advanced Game Design and Engineering/TechnicallyDifficultEngine/TechnicallyDifficult/TechnicallyDifficult/Content/Graphics/Patient-100.png</File>
+  </SourceFiles>
+</SourceFileCollection>
